@@ -1,0 +1,5 @@
+TypeScriptToLuaでNeovimのプラグインを作れるかテスト
+
+npm installしてnpm run buildしたら多分動くはず
+
+ライセンスはNYSLなので好きにして大丈夫です

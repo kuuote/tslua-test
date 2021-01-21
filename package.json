@@ -1,0 +1,14 @@
+{
+  "name": "tslua-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tstl -p tsconfig.json"
+  },
+  "author": "",
+  "license": "NYSL",
+  "devDependencies": {
+    "typescript-to-lua": "^0.37.1"
+  }
+}
